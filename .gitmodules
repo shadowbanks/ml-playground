@@ -1,3 +1,6 @@
 [submodule "ml_housing"]
 	path = ml_housing
 	url = https://github.com/shadowbanks/ml_housing.git
+[submodule "weather_prediction"]
+	path = weather_prediction
+	url = https://github.com/shadowbanks/weather_prediction.git
